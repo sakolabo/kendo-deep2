@@ -1,2 +1,2 @@
-b73535d20438b884fc67f538b412cce36e49da4f0927cb6b733fd9f13924efac  AIxKendoDeep2-0.1.1-beta-win64.zip
+27a28e9a8b5d31d13c28f3c2b8acf27a439a94d59c244ea2f3231de33368674f  AIxKendoDeep2-0.1.2-beta-win64.zip
 648029d95f3b77883e611ae90e000b01eebb075a857f8d6a4a3335435bab5f17  AIxKendoDeep2-EnvCheck-0.1.0.zip
