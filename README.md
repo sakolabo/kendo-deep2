@@ -25,7 +25,7 @@
 | ファイル | サイズ | 何のためのもの |
 |---|---|---|
 | `AIxKendoDeep2-EnvCheck-0.1.0.zip` | **約6KB** | ⭐ **先にこちらを。** お使いの PC で動くかを確認します |
-| `AIxKendoDeep2-0.1.3-beta-win64.zip` | **約193MB** | 本体 |
+| `AIxKendoDeep2-0.1.4-beta-win64.zip` | **約193MB** | 本体 |
 
 ### 1. まず動作環境を確認する（約6KB・30秒）
 
@@ -36,7 +36,7 @@ OS・空き容量・カメラ・ポートの空きを調べ、結果をその場
 
 ### 2. 問題なければ本体を入れる
 
-`AIxKendoDeep2-0.1.3-beta-win64.zip` を展開し、**`AIxKendoDeep2.exe`** を実行するだけです。
+`AIxKendoDeep2-0.1.4-beta-win64.zip` を展開し、**`AIxKendoDeep2.exe`** を実行するだけです。
 **インストール作業は不要**で、フォルダごと移動・削除できます。
 
 ---
@@ -103,7 +103,7 @@ PC の画面に出る **QR コードをスマートフォンで読み取る**と
 ご不安な場合は、`SHA256SUMS.txt` の値をお手元のファイルと照合してください。
 
 ```powershell
-Get-FileHash .\AIxKendoDeep2-0.1.3-beta-win64.zip -Algorithm SHA256
+Get-FileHash .\AIxKendoDeep2-0.1.4-beta-win64.zip -Algorithm SHA256
 ```
 
 値が一致すれば、こちらが配布したものと同じファイルです。
